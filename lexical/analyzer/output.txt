@@ -1,0 +1,42 @@
+{"type":"STRING","value":"'hello world'"}
+{"type":"COMMENT","value":" /* comment */"}
+{"type":"STRING","value":"'hello world'"}
+{"type":"COMMENT","value":" /* comment */"}
+{"type":"COMMENT","value":"  /*comentario*/"}
+{"type":"INTEGER","value":" 26"}
+{"type":"SEMI-COLON","value":";"}
+{"type":"INTEGER","value":" 8"}
+{"type":"OPEN PARENTESIS","value":" ("}
+{"type":"INTEGER","value":"1"}
+{"type":"MORE","value":">"}
+{"type":"INTEGER","value":"0"}
+{"type":"CLOSE PARENTESIS","value":")"}
+{"type":"STRING","value":"'hello world'"}
+{"type":"COMMENT","value":" /* comment */"}
+{"type":"COMMENT","value":"  /*comentario*/"}
+{"type":"INTEGER","value":" 26"}
+{"type":"SEMI-COLON","value":";"}
+{"type":"INTEGER","value":" 8"}
+{"type":"OPEN PARENTESIS","value":" ("}
+{"type":"INTEGER","value":"1"}
+{"type":"MORE","value":">"}
+{"type":"INTEGER","value":"0"}
+{"type":"CLOSE PARENTESIS","value":")"}
+{"type":"STRING","value":" 'hello'"}
+{"type":"IDENTIFIER","value":" $hola"}
+{"type":"STRING","value":"'hello world'"}
+{"type":"COMMENT","value":" /* comment */"}
+{"type":"COMMENT","value":"  /*comentario*/"}
+{"type":"INTEGER","value":" 26"}
+{"type":"SEMI-COLON","value":";"}
+{"type":"INTEGER","value":" 8"}
+{"type":"OPEN PARENTESIS","value":" ("}
+{"type":"INTEGER","value":"1"}
+{"type":"MORE","value":">"}
+{"type":"INTEGER","value":"0"}
+{"type":"CLOSE PARENTESIS","value":")"}
+{"type":"STRING","value":" 'hello'"}
+{"type":"IDENTIFIER","value":" $hola"}
+{"type":"INTEGER","value":" 1"}
+{"type":"MORE","value":">"}
+{"type":"INTEGER","value":"3"}
